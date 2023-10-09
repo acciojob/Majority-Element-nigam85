@@ -17,7 +17,3 @@ function majorityElement(nums) {
   return majority;
 }
 
-// Example usage:
-const input = [2, 1, 2];
-const result = majorityElement(input);
-console.log(result); // Output: 2
